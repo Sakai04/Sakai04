@@ -10,3 +10,4 @@
 Sakai04/Sakai04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sakaio4&theme=dark&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
