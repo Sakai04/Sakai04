@@ -3,7 +3,7 @@
 - 👀 I’m interested in become a computer Engineer
 - 🌱 I’m currently learning c, c++, cuda  ..etc
 - 📫 How to reach me .. here's my kr email. pxj1199@naver.com
-- ⚡ Fun fact: what should i do
+- ⚡ Fun fact: what should i dooo
 
 
 
